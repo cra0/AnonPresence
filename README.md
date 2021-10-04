@@ -6,6 +6,7 @@ Microsoft Teams presence report blocker.
 
 Microsoft Teams peroticially sends back telemetry and presence data on your activity status while using the native client on Windows. The reported data can indicate how active you are on your pc. 
 This tool hooks SSL_Write inside the third party library [BoringSSL](https://boringssl.googlesource.com/boringssl/) which is utilized inside [Electron](https://github.com/electron/electron).
+Effectively spoofing your status to be always active.
 
 
 ## Usage
