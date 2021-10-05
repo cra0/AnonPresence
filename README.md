@@ -12,7 +12,7 @@ Effectively spoofing your status to be always active.
 ## Usage
 
 - Copy the built dummy `VERSION.DLL` into `C:\Users\%USERNAME%\AppData\Local\Microsoft\Teams\current\`
-- Copy the original DLL either included in the [Release](https://github.com/cra0/AnonPresence/releases) or acquire a copy from your System32 directory located.
+- Copy the original DLL either included in the [Release](https://github.com/cra0/AnonPresence/releases) or acquire a copy from your System32 'C:\Windows\System32\' directory.
 - Rename the original `VERSION.dll` to `VERSION_orig.dll` and place it in the same directory `(C:\Users\%USERNAME%\AppData\Local\Microsoft\Teams\current\)`.
 
 Once you run Teams there will be a log generated located at `C:\Users\cihan\AppData\Local\Microsoft\Teams\current\log\AnonPresence.log`
