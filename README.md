@@ -19,3 +19,4 @@ Once you run Teams there will be a log generated located at `C:\Users\cihan\AppD
 
 You may need to repeat these steps if Teams decides to repair it's install folder after an update.
 
+
